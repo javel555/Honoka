@@ -9,15 +9,9 @@
   color: #fff;
   background-color: #55acee;
   border-color: #4ca7ed;
-  -webkit-transition-timing-function: ease;
-       -o-transition-timing-function: ease;
-          transition-timing-function: ease;
-  -webkit-transition-duration: .3s;
-       -o-transition-duration: .3s;
-          transition-duration: .3s;
-  -webkit-transition-property: all;
-       -o-transition-property: all;
-          transition-property: all;
+  transition-timing-function: ease;
+  transition-duration: .3s;
+  transition-property: all;
 }
 .btn-twitter:focus, .btn-twitter.focus {
   color: #fff;
@@ -55,15 +49,9 @@
   color: #fff;
   background-color: #3b5998;
   border-color: #385591;
-  -webkit-transition-timing-function: ease;
-       -o-transition-timing-function: ease;
-          transition-timing-function: ease;
-  -webkit-transition-duration: .3s;
-       -o-transition-duration: .3s;
-          transition-duration: .3s;
-  -webkit-transition-property: all;
-       -o-transition-property: all;
-          transition-property: all;
+  transition-timing-function: ease;
+  transition-duration: .3s;
+  transition-property: all;
 }
 .btn-facebook:focus, .btn-facebook.focus {
   color: #fff;
@@ -101,15 +89,9 @@
   color: #fff;
   background-color: #178fde;
   border-color: #1689d5;
-  -webkit-transition-timing-function: ease;
-       -o-transition-timing-function: ease;
-          transition-timing-function: ease;
-  -webkit-transition-duration: .3s;
-       -o-transition-duration: .3s;
-          transition-duration: .3s;
-  -webkit-transition-property: all;
-       -o-transition-property: all;
-          transition-property: all;
+  transition-timing-function: ease;
+  transition-duration: .3s;
+  transition-property: all;
 }
 .btn-hatebu:focus, .btn-hatebu.focus {
   color: #fff;
@@ -160,10 +142,10 @@ body {
   color: #fff;
   text-align: center;
   text-decoration: none;
-  background-color: #2196f3;
+  background-color: #74518d;
 }
 .v4-dev a:hover, .v4-dev a:active, .v4-dev a:focus {
-  background-color: #0c7cd5;
+  background-color: #593e6d;
 }
 
 .social-button {
@@ -206,8 +188,7 @@ body {
   background-image: url("../img/circle.png");
   background-repeat: no-repeat;
   background-position: -35% center;
-  -webkit-background-size: 70% 70%;
-          background-size: 70%;
+  background-size: 70%;
 }
 .jumbotron.special .honoka {
   position: absolute;
@@ -230,7 +211,7 @@ body {
 }
 .jumbotron.special .basedon {
   margin: 12px auto;
-  color: #777;
+  color: #aea79f;
   text-shadow: #fff 0 1px 2px;
 }
 
@@ -264,16 +245,16 @@ section.section .subtitle h2 {
   border-radius: 100%;
 }
 .point .point-box .point-circle.start {
-  background-color: #4caf50;
+  background-color: #4ec13c;
 }
 .point .point-box .point-circle.replace {
-  background-color: #ff9800;
+  background-color: #e3774c;
 }
 .point .point-box .point-circle.compass {
-  background-color: #2196f3;
+  background-color: #74518d;
 }
 .point .point-box .point-circle.japanese {
-  background-color: #f44336;
+  background-color: #cf4b7a;
 }
 .point .point-box .point-circle.japanese span.icon-jp::before {
   font-weight: bold;
@@ -312,8 +293,7 @@ h3 .package-system-logo {
   background-image: url("../img/bower-logo.png");
   background-repeat: no-repeat;
   background-position: center center;
-  -webkit-background-size: contain;
-          background-size: contain;
+  background-size: contain;
   opacity: .3;
 }
 
