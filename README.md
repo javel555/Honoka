@@ -108,4 +108,4 @@ Bootstrapをつかってウェブページを作成する際に基本となるHT
 
 ## Respect
 
-* Frandre(http://sairoutine.github.io/Frandre/)([@sairoutine](https://twitter.com/sairoutine))
+* Frandre(http://sairoutine.github.io/Frandre/)  ([@sairoutine](https://twitter.com/sairoutine))
