@@ -1,18 +1,18 @@
 {
-  "name": "bootstrap-honoka",
-  "version": "3.3.7-a",
-  "description": "Honoka is one of the Bootstrap original theme.",
-  "author": "windyakin",
-  "website": "http://honokak.osaka/",
+  "name": "Mystia",
+  "version": "3.3.7-a-1.0.0",
+  "description": "Mystia is one of the Bootstrap original theme.",
+  "author": "javel555",
+  "website": "https://javel555.github.io/Mystia/",
   "config": {
-    "package_name": "Honoka"
+    "package_name": "Mystia"
   },
   "keywords": [
     "css",
     "bootstrap",
     "sass",
     "scss",
-    "lovelive",
+    "touhou",
     "web",
     "front-end",
     "framework",
@@ -29,7 +29,7 @@
   "style": "dist/css/bootstrap.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/windyakin/honoka.git"
+    "url": "https://github.com/javel555/Mystia.git"
   },
   "devDependencies": {
     "bower": "^1.7.9",

@@ -1,63 +1,28 @@
-# Honoka
+# Mystia
 
-[![Build Status by Travis CI](https://travis-ci.org/windyakin/Honoka.svg?branch=master)](https://travis-ci.org/windyakin/Honoka)
-[![Build status by AppVeyor](https://ci.appveyor.com/api/projects/status/6j4y6bugti7f1aff/branch/master?svg=true)](https://ci.appveyor.com/project/windyakin/honoka/branch/master)
-[![devDependency Status](https://david-dm.org/windyakin/Honoka/dev-status.svg)](https://david-dm.org/windyakin/Honoka#info=devDependencies)
+[![Build Status](https://travis-ci.org/javel555/Mystia.svg?branch=master)](https://travis-ci.org/javel555/Mystia)
 [![The MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![npm](https://img.shields.io/npm/v/bootstrap-honoka.svg)](https://www.npmjs.com/package/bootstrap-honoka)
 
-[http://honokak.osaka/](http://honokak.osaka/)
+"Mystia"は"[Honoka](http://honokak.osaka/)"を元にした日本語も美しく表示できるBootstrapテーマです。
 
-[![Honoka](docs/assets/img/sample.png)](http://honokak.osaka/)
-
-"Honoka" は日本語も美しく表示できるBootstrapテーマです。
-
-## About "Honoka"
+## About "Mystia"
 
 通常の[Bootstrap](http://getbootstrap.com/)では，日本語のフォント指定や文字サイズは最適とはいえません。"Honoka"はそんなBootstrapをベースに，日本語表示に適したフォント指定や，文字サイズに関するコードを追記したBootstrapテーマの一つです。
 
 ## Live Demo
 
- * [http://honokak.osaka/bootstrap-ja.html](http://honokak.osaka/bootstrap-ja.html) (日本語レイアウト)
- * [http://honokak.osaka/bootstrap.html](http://honokak.osaka/bootstrap.html) (英語レイアウト)
+ * [https://javel555.github.io/Mystia/bootstrap-ja.html](https://javel555.github.io/Mystia/bootstrap-ja.html) (日本語レイアウト)
+ * [https://javel555.github.io/Mystia/bootstrap.html](https://javel555.github.io/Mystia/bootstrap.html) (英語レイアウト)
 
 ## Getting Started
 
 ### Download
 
-[Releases](https://github.com/windyakin/Honoka/releases)から最新版をダウンロードしてください。
-
-### npm
-
-Node.js のパッケージ管理システムである、 [npm](https://npmjs.com) からダウンロードすることができます。 [webpack](https://webpack.js.org/) など、npmを利用したmodule bundlerでご利用ください。
-
-```
-npm install --save bootstrap-honoka
-```
-
-パッケージ名が 「**bootstrap**-honoka」 であることに注意してください。
-
-### Bower
-
-[Bower](http://bower.io/)からインストールすることができます。
-
-最新版をインストールするには以下のコマンドを実行してください。
-
-```
-bower install --save-dev $(node -e "$(curl -fsSL https://cdn.honokak.osaka/last.js)" windyakin Honoka)
-```
-
-もしcURLが入っていない環境の場合には、
-
-```
-bower install --save-dev Honoka#(version)
-```
-
-``(version)``にはバージョン番号を指定します(ex. ``Honoka#3.3.5-c``)。Honokaの最新バージョン番号は[Releases](https://github.com/windyakin/Honoka/releases)から確認してください。
+[Releases](https://github.com/javel555/Mystia/releases)から最新版をダウンロードしてください。
 
 ## Usage
 
-Honokaは単なるBootstrapテーマにしか過ぎないため，基本的な使い方は本家Bootstrapとほとんど変わりません。よって以下に書くことは[本家Bootstrap](http://getbootstrap.com/getting-started/)からの引用，もしくはその一部を変更したものです。用意されたCSSクラスやコンポーネントなど，より詳細な使い方のドキュメントは本家Bootstrapの各種リファレンスページをご覧になることを推奨します。
+Mystiaは単なるBootstrapテーマにしか過ぎないため，基本的な使い方は本家Bootstrapとほとんど変わりません。よって以下に書くことは[本家Bootstrap](http://getbootstrap.com/getting-started/)からの引用，もしくはその一部を変更したものです。用意されたCSSクラスやコンポーネントなど，より詳細な使い方のドキュメントは本家Bootstrapの各種リファレンスページをご覧になることを推奨します。
 
  * [CSS](http://getbootstrap.com/css/)
  * [Components](http://getbootstrap.com/components/)
@@ -127,7 +92,7 @@ Bootstrapをつかってウェブページを作成する際に基本となるHT
 
 ## Build
 
-ビルドの方法については [Wiki](https://github.com/windyakin/Honoka/wiki) をご覧ください。
+ビルドの方法についてはHonokaの [Wiki](https://github.com/windyakin/Honoka/wiki) をご覧ください。
 
 ## License
 
@@ -136,3 +101,11 @@ Bootstrapをつかってウェブページを作成する際に基本となるHT
 ## Author
 
 * windyakin ([@MITLicense](https://twitter.com/MITLicense))
+
+## Editor
+
+* javel ([@Javel_](https://twitter.com/Javel_))
+
+## Respect
+
+* Frandre(http://sairoutine.github.io/Frandre/)([@sairoutine](https://twitter.com/sairoutine))

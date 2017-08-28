@@ -13,11 +13,11 @@
     "web",
     "lovelive"
   ],
-  "author": "windyakin",
-  "homepage": "http://honokak.osaka/",
+  "author": "javel",
+  "homepage": "https://javel555.github.io/Mystia/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/windyakin/Honoka.git"
+    "url": "git://github.com/javel555/Mystia/"
   },
   "license": "MIT",
   "moduleType": "globals",
